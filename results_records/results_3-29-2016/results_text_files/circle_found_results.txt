@@ -1,0 +1,132 @@
+File name: a.txt
+Lines: 43
+True Positives: 131441
+False Positives: 223584
+True Negatives: 1331706
+False Negatives: 223584
+Precision: 0.370230265474
+Sensitivity: 0.880912807453
+F-Measure: 0.521348180908
+Dice Coefficent: 0.521348180908
+Jaccard Index: 0.352583464326
+
+File name: ah.txt
+Lines: 43
+True Positives: 99462
+False Positives: 73870
+True Negatives: 1481420
+False Negatives: 73870
+Precision: 0.573823644797
+Sensitivity: 0.666590711078
+F-Measure: 0.616738285247
+Dice Coefficent: 0.616738285247
+Jaccard Index: 0.445857988166
+
+File name: b.txt
+Lines: 43
+True Positives: 132408
+False Positives: 312372
+True Negatives: 1242918
+False Negatives: 312372
+Precision: 0.297693241603
+Sensitivity: 0.887393606327
+F-Measure: 0.445825687301
+Dice Coefficent: 0.445825687301
+Jaccard Index: 0.286856939829
+
+File name: bh.txt
+Lines: 43
+True Positives: 106844
+False Positives: 115750
+True Negatives: 1439540
+False Negatives: 115750
+Precision: 0.479994968418
+Sensitivity: 0.71606460693
+F-Measure: 0.574732923799
+Dice Coefficent: 0.574732923799
+Jaccard Index: 0.403245772947
+
+File name: g.txt
+Lines: 43
+True Positives: 131894
+False Positives: 185873
+True Negatives: 1369417
+False Negatives: 185873
+Precision: 0.415065126335
+Sensitivity: 0.883948796998
+F-Measure: 0.564884351906
+Dice Coefficent: 0.564884351906
+Jaccard Index: 0.393615910088
+
+File name: gh.txt
+Lines: 43
+True Positives: 94123
+False Positives: 40026
+True Negatives: 1515264
+False Negatives: 40026
+Precision: 0.701630276782
+Sensitivity: 0.630808927016
+F-Measure: 0.6643374659
+Dice Coefficent: 0.6643374659
+Jaccard Index: 0.497384218648
+
+File name: h.txt
+Lines: 43
+True Positives: 40221
+False Positives: 465
+True Negatives: 1554825
+False Negatives: 465
+Precision: 0.988571007226
+Sensitivity: 0.269559680987
+F-Measure: 0.423610818553
+Dice Coefficent: 0.423610818553
+Jaccard Index: 0.268722231502
+
+File name: n.txt
+Lines: 43
+True Positives: 126395
+False Positives: 29344
+True Negatives: 1525946
+False Negatives: 29344
+Precision: 0.811582198422
+Sensitivity: 0.847094698747
+F-Measure: 0.828958284828
+Dice Coefficent: 0.828958284828
+Jaccard Index: 0.707881089194
+
+File name: o1.txt
+Lines: 43
+True Positives: 139031
+False Positives: 45612
+True Negatives: 1509678
+False Negatives: 45612
+Precision: 0.752971951279
+Sensitivity: 0.931780711749
+F-Measure: 0.832887528343
+Dice Coefficent: 0.832887528343
+Jaccard Index: 0.713630904107
+
+File name: o2.txt
+Lines: 43
+True Positives: 21302
+False Positives: 57400
+True Negatives: 1497890
+False Negatives: 57400
+Precision: 0.270666565017
+Sensitivity: 0.142765230212
+F-Measure: 0.186931798238
+Dice Coefficent: 0.186931798238
+Jaccard Index: 0.103102463579
+
+File name: o3.txt
+Lines: 43
+True Positives: 147145
+False Positives: 88478
+True Negatives: 1466812
+False Negatives: 88478
+Precision: 0.6244933644
+Sensitivity: 0.98616044501
+F-Measure: 0.764721320677
+Dice Coefficent: 0.764721320677
+Jaccard Index: 0.619067853657
+
